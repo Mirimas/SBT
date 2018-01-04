@@ -1,5 +1,7 @@
 # Автопарковка
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c6d89bc9dac24658b26986e68ee41525)](https://www.codacy.com/app/Mirimas/SBT?utm_source=github.com&utm_medium=referral&utm_content=Mirimas/SBT&utm_campaign=badger)
+
 Демо автопарковка:
 * Парковка имеет вместимость n машин
 * У парковки есть стоимость 1-го часа стоянки.
